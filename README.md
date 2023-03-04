@@ -4,8 +4,7 @@ Build Mobile Tab navigation
 
 ## Screenshort
 
-![image](./images/Screenshot_01.png)
-![image](./images/Screenshot_02.png)
+![image](./images/screenshort.jpg)
 
 ## Description
 
